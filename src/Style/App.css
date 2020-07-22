@@ -1,0 +1,150 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.logo {
+  float: left;
+  font-size: 32px;
+  margin-right: 10px;
+  color: #005dca;
+}
+
+.logo-l {
+  color: #4267b2;
+}
+
+.logo-l span {
+  font-size: 150px;
+  margin-top: -8px;
+}
+
+.logo-m {
+  font-size: 72px;
+  color: #4267b2;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.ant-card {
+  width: 600px;
+  margin: auto;
+}
+
+.ant-card.mb-20 {
+  margin-bottom: 20px;
+}
+
+.ant-card-meta {
+  margin-bottom: 10px;
+}
+
+.ant-card-meta-title {
+  color: #005dca;
+  font-weight: 600;
+  margin-bottom: 0 !important;
+}
+
+.ant-card-head {
+  font-weight: 600;
+}
+
+.nav-profile a {
+  color: #fff;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.create-status {
+  display: flex;
+}
+
+.create-status .status-msg {
+  margin-left: 10px;
+  width: 100%;
+}
+
+.btn-gray {
+  background-color: #f2f4f5;
+}
+
+.post-content img {
+  width: 100%;
+}
+
+.comment-input .flex {
+  display: flex;
+}
+
+.comment-show .profile-name {
+  color: #005dca;
+  font-weight: 600;
+}
+
+.comment-show .comment {
+  word-wrap: break-word;
+}
+
+.header-profile .profile-name {
+  font-size: 72px;
+  margin-left: 30px;
+  line-height: 150px;
+}

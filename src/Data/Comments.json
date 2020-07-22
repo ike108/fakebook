@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "iKe K",
+        "message": "message1234",
+        "isProfile": false
+    },
+    {
+        "id": 2,
+        "name": "iKe K",
+        "message": "message1234asdf",
+        "isProfile": false
+    },
+    {
+        "id": 3,
+        "name": "iKe K",
+        "message": "message1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwer",
+        "isProfile": true
+    },
+    {
+        "id": 4,
+        "name": "iKe K",
+        "message": "message1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwermessage1234qweqwrwer",
+        "isProfile": false
+    }
+]
